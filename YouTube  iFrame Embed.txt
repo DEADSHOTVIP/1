@@ -1,0 +1,3 @@
+<div style="height: 260px;" id="frame_id_${id}">
+<iframe id="video-start" style="border: none; margin-top: -50px;" width="540" height="300" src="https://www.youtube.com/embed/YLhfN1wdeUY?enablejsapi=1&amp;autoplay=0&amp;start=0&amp;autohide=1&amp;wmode=opaque&amp;showinfo=0&amp;origin=https://aviso.bz&amp;rel=0&amp;iv_load_policy=3&amp;enablejsapi=1" title="Обзор на KzCoin.finance Предпродажа монеты KZC #presale #kzcoin"></iframe>
+</div>
